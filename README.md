@@ -1,5 +1,7 @@
 # asing
 
+![build status](https://travis-ci.org/devamstudio/asing.svg?branch=master)
+
 ## Project setup
 ```
 npm install
